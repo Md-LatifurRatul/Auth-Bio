@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700315889615",
+    "project_id": "authbio-f0fdf",
+    "storage_bucket": "authbio-f0fdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700315889615:android:9a0f72c3c21050311f2cba",
+        "android_client_info": {
+          "package_name": "com.example.auth_bio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9376lOrOxl2Tmc2Ku4-XpWGee8B3PKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
